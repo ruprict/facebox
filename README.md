@@ -37,3 +37,12 @@ Once that's done, you can run this app, which starts a web server:
 
 Then, goto `http://localhost:8081/static` and put your face in the video window. It
 should say "Hello <your name>"
+
+
+# Roadmap
+
+* Get a real UI. Maybe an Avatar?
+* Use Bamboo API to check employee details. Birthday, etc.
+* Use Google AI API to be more interactive?
+* Allow unknown user to have pic taken, register, etc.
+* Keep interaction state. Meaning, already greeted, etc.
