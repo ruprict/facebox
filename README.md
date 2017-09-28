@@ -46,3 +46,11 @@ should say "Hello <your name>"
 * Use Google AI API to be more interactive?
 * Allow unknown user to have pic taken, register, etc.
 * Keep interaction state. Meaning, already greeted, etc.
+* Host facebox somewhere cloudy.
+
+
+# Questions
+* Could we put this all over the office?
+* How to incorporate listening? [Like this](https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API)
+
+
